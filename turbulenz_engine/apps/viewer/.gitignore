@@ -1,0 +1,11 @@
+*.debug.html
+*.release.html
+*.canvas.js
+*.tzjs
+*.jsinc
+_build
+staticmax
+mapping_table.json
+jslib
+scripts/motion.js
+scripts/sceneloader.js

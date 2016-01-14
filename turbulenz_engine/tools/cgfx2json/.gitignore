@@ -1,0 +1,13 @@
+# Ignore all the test files in this directory
+*.cgfx
+*.cgh
+*.json
+*.user
+*.ncb
+*.suo
+*.sdf
+Debug
+Release
+x64
+obj
+bin

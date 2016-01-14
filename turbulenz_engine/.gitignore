@@ -1,0 +1,22 @@
+# Virtual env
+/env/
+node_modules
+
+# Compiled python files
+*.pyc
+*.pyo
+
+# JSLIB build files
+jslib/
+jslib-modular/
+jslib-refcheck/
+.mkdir
+.tssyntaxcheck/
+
+# Temporary files
+*~
+.DS_Store
+TAGS
+
+# default local server folder
+/devserver/
